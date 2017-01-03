@@ -1,0 +1,74 @@
+/* Style für HFK-Konstanz
+   Erstellt am 01.Januar 2006 */
+
+body { margin: 0px; }
+
+td, p { font-family: verdana,arial,helvetica; font-size: 9pt; line-height: 14pt; }
+
+h1, a {  font-family: verdana,arial,helvetica; }
+
+a.kontakt { font-size: 10px; color: lightslategray; text-decoration: none; }
+a:hover.kontakt { font-size: 10px; color: firebrick; text-decoration: none; }
+
+h1 { font-size: 12pt; color: darkslategray; font-weight: bold; }
+
+a {
+ font-family: verdana,arial,helvetica;
+ font-size: 10px;
+ text-decoration: none;
+ color: #000000;
+ text-transform: uppercase;
+}
+
+a
+{
+ color: darkgray;
+ text-decoration: none;
+ font-weight: bold;
+}
+
+a:hover
+{
+ color: crimson;
+ text-decoration: none;
+}
+
+a b
+{
+ color: black;
+}
+a:hover b
+{
+ color: black;
+}
+
+#nav
+{
+ position: absolute;
+ left: 50%;
+ width: 165px;
+ margin-top: 38px;
+ margin-left: -385px;
+ padding: 0px;
+ border: 0px dotted red;
+}
+
+#nav a
+{
+ display: block; width: 160px;
+ font-family: verdana,Arial,Helvetica; color: #5a5d5a;
+ font-size: 10px; text-decoration: none;
+ padding: 2px 0px 2px 0px;
+ border-top: 1px solid lightsteelblue;
+}
+
+#nav a:hover
+{
+width: 160px; color: black;
+ text-decoration: none ;
+ font-family: verdana,Arial,Helvetica;
+ font-size: 10px;
+
+ background-color: lightsteelblue;
+ border-top: solid 1px white;
+}
