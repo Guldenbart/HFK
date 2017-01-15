@@ -50,12 +50,12 @@
 		<tr>
 			<td width="800">&nbsp;</td>
 			<td width="800">
-				<h1><font color="#00008B">Konzerte</font></h1>
+				<h1><font color="#00008B">Konzerte 2017</font></h1>
 				<br><br>
 
 				<table border=8>
 					 <colgroup>
-						<col width="95">
+						<col width="100">
 						<col width="110">
 						<col width="100">
 						<col width="240"></col>
@@ -95,7 +95,7 @@
 						<td> 11. November </td>
 						<td> 19.30 Uhr </td>
 						<td> Herbstkonzert </td>
-						<td> St. Gallus </td>
+						<td> Gemeindesaal St. Gallus Wollmatingen </td>
 					</tr>				
 					<tr>
 						<td> 12. Dezember </td>
