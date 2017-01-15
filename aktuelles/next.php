@@ -26,7 +26,7 @@
 		
 		<!-- Kontaktleiste -->
 		<?php
-			include './inc/kontakleiste.php'
+			include '../inc/kontakleiste.php'
 		?>
 
 		<!-- Navigation -->
