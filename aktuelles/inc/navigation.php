@@ -1,4 +1,4 @@
-<!-- /aktuelles/navigation.php -->
+<!-- /aktuelles/inc/navigation.php -->
 
 <table id="nav" cellpadding="0" cellspacing="0" width="190" border="0" style="">
 	<tbody>
