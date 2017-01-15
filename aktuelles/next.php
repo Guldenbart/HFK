@@ -7,7 +7,7 @@
 	<head>
 		<title>nächste Veranstaltung der Harmonikafreunde Konstanz</title>
 		<meta name="keywords" content="Rainer Lehmann, Rolf Rindlisbacher, Lehmann, Berchenschule, DHV, Harmonikafreunde , Akkordeon, HFK, Konstanz, Jugend, Kooperation, Grundschule, Wollmatingen, Litzelstetten">
-		<meta name="description" content="Akkordeonverein Konstanz, eingetragener Verein mit über 140 Mitgliedern, Vorstand: Karl-Heinz Weidele, Leiter: Rolf Rindlisbacher,  Rainer Lehmann">
+		<meta name="description" content="Akkordeonverein Konstanz, eingetragener Verein mit über 140 Mitgliedern, Vorstand: Karl-Heinz Weidele, Leiter: Rolf Rindlisbacher, Rainer Lehmann">
 		<link rel="stylesheet" href="../style/hfk_style.css" type="text/css">
 		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 		<meta name="author" content="Rainer Lehmann">

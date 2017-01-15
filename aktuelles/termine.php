@@ -1,8 +1,6 @@
 <!doctype html public "-//W3C//DTD HTML 4.01 Transitional//EN">
 <!-- /aktuelles/termine.php -->
 
-<!-- TODO: Formatierung!!!-->
-
 <html>
 	<head>
 		<title>Termine 2017 der Harmonikafreunde Konstanz</title>
