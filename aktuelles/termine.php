@@ -53,22 +53,28 @@
 							<td> Berchenschule </td>
 						</tr>
 						<tr>
-							<td> 24. Juni </td>
-							<td> </td>
-							<td> Lange Nacht der Musik </td>
-							<td> St. Gallus </td>
-						</tr>
-						<tr>
-							<td> 25. Juli </td>
+							<td> 25. Juni </td>
 							<td> 11.00 Uhr </td>
 							<td> Konzert </td>
 							<td> Stadtgarten Konstanz </td>
+						</tr>
+						<tr>
+							<td> 01. Juli </td>
+							<td> </td>
+							<td> Lange Nacht der Musik </td>
+							<td> </td>
 						</tr>
 						<tr>
 							<td> 09. Juli </td>
 							<td> </td>
 							<td> Schülervorspiel </td>
 							<td> Gemeindesaal St. Martin Wollmatingen </td>
+						</tr>
+						<tr>
+							<td> 19. Juli </td>
+							<td> </td>
+							<td> Konzert </td>
+							<td> Seniorenheim Insel Reichenau </td>
 						</tr>
 						<tr>
 							<td> 01. Oktober </td>
@@ -87,6 +93,12 @@
 							<td> 19.30 Uhr </td>
 							<td> Herbstkonzert </td>
 							<td> Gemeindesaal St. Gallus Wollmatingen </td>
+						</tr>
+						<tr>
+							<td> 18. November </td>
+							<td> 17.00 Uhr </td>
+							<td> Benefizkonzert </td>
+							<td> Lutherkirche </td>
 						</tr>
 						<tr>
 							<td> 12. Dezember </td>

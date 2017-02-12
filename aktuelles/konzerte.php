@@ -84,7 +84,13 @@
 							<td> 19.30 Uhr </td>
 							<td> Herbstkonzert </td>
 							<td> Gemeindesaal St. Gallus Wollmatingen </td>
-						</tr>				
+						</tr>
+						<tr>
+							<td> 18. November </td>
+							<td> 17.00 Uhr </td>
+							<td> Benefizkonzert </td>
+							<td> Lutherkirche </td>
+						</tr>
 						<tr>
 							<td> 12. Dezember </td>
 							<td> 18.00 Uhr </td>
