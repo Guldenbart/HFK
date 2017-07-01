@@ -62,6 +62,12 @@
 							<td> Stadtgarten Konstanz </td>
 						</tr>
 						<tr>
+							<td> 01. Juli </td>
+							<td> 20.00 Uhr</td>
+							<td> Musik macht mobil </td>
+							<td> Autohaus Auer</td>
+						</tr>
+						<tr>
 							<td> 09. Juli </td>
 							<td> </td>
 							<td> Schülervorspiel </td>
