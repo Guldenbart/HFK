@@ -43,8 +43,8 @@
 				<td width="500">&nbsp;</td>
 				<td width="500"><h1><font color="#00008B"></font></h1>
 
-				<!-- iframe name="I1" width="500" height="700" src="bilder/Plakat.pdf" -->
-				<iframe name="I1" width="500" height="700" src="bilder/next.jpg">
+				<iframe name="I1" width="500" height="700" src="bilder/Plakat.pdf">
+				<!--iframe name="I1" width="500" height="700" src="bilder/next.jpg"-->
 				Ihr Browser unterstützt Inlineframes nicht oder zeigt sie in der derzeitigen Konfiguration nicht an.
 				</iframe></p>
 				<br><br><br> <br> <br>
