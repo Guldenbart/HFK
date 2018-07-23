@@ -68,7 +68,7 @@
 
 			<tr>
 				<td width="596">&nbsp;</td>
-				<td width="175" valign="top" class="bild"><img src="../btn/pfeil1.gif" width="10" height="7" border="0"> <a class="kontakt" href="proben.html">NÄCHSTE SEITE</a></td>
+				<td width="175" valign="top" class="bild"><img src="../btn/pfeil1.gif" width="10" height="7" border="0"> <a class="kontakt" href="contact.php">NÄCHSTE SEITE</a></td>
 			</tr>
 
 		</table>

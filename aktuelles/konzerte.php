@@ -4,15 +4,13 @@
 <html>
 	<head>
 		<title>Konzerte Harmonikafreunde Konstanz</title>
-		<meta name="keywords" content="Rainer Lehmann, Lehmann, Berchenschule, DHV, Harmonikafreunde , Akkordeon, HFK, Konstanz, Jugend, Kooperation, Grundschule, Wollmatingen, Litzelstetten ">
-		<meta name="description" content="Akkordeonverein Konstanz, eingetragener Verein mit über 140 Mitgliedern, Vorstand: Karl-Heinz Weidele, Leiter: Rolf Rindlisbacher, Rainer Lehmann ">
+		<meta name="keywords" content="Berchenschule, DHV, Harmonikafreunde , Akkordeon, HFK, Konstanz, Jugend, Kooperation, Grundschule, Wollmatingen, Litzelstetten ">
+		<meta name="description" content="Akkordeonverein Konstanz, eingetragener Verein mit über 140 Mitgliedern, Vorstand: Diana Harnest, Leiter: Rolf Rindlisbacher">
 		<link rel="stylesheet" href="../style/hfk_style.css" type="text/css">
 		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-		<meta name="author" content="Rainer Lehmann">
 		<meta name="author" content="Daniel Fritz">
 	</head>
 
-	
 	<body text="black" bgcolor="white" link="blue" alink="red" vlink="maroon">
 
 		<!-- Kopbereich -->
@@ -50,58 +48,40 @@
 						</colgroup>
 
 						<tr>
-							<td> 24. Juni </td>
+							<td> 17. Juni </td>
 							<td> </td>
-							<td> Lange Nacht der Musik </td>
-							<td> </td>
+							<td> Konzert </td>
+							<td> Insel Reichenau </td>
 						</tr>
 						<tr>
-							<td> 25. Juni </td>
-							<td> 11.00 Uhr </td>
+							<td> 14. Juli </td>
+							<td> 19.30 Uhr </td>
 							<td> Konzert </td>
 							<td> Stadtgarten Konstanz </td>
 						</tr>
 						<tr>
-							<td> 01. Juli </td>
-							<td> 20.00 Uhr</td>
-							<td> Musik macht mobil </td>
-							<td> Autohaus Auer</td>
-						</tr>
-						<tr>
-							<td> 09. Juli </td>
+							<td> 22. Juli </td>
 							<td> </td>
 							<td> Schülervorspiel </td>
 							<td> Gemeindesaal St. Martin Wollmatingen </td>
-						</tr>		
-						<tr>
-							<td> 19. Juli </td>
-							<td> </td>
-							<td> Konzert </td>
-							<td> Seniorenheim Insel Reichenau </td>
 						</tr>
 						<tr>
-							<td> 01. Oktober </td>
+							<td> 07. Oktober </td>
 							<td> 14.00 Uhr </td>
 							<td> Gestaltung des Erntedank-Festes </td>
 							<td> Festsaal ZfP Reichenau </td>
 						</tr>
 						<tr>
-							<td> 11. November </td>
+							<td> 10. November </td>
 							<td> 19.30 Uhr </td>
 							<td> Herbstkonzert </td>
 							<td> Gemeindesaal St. Gallus Wollmatingen </td>
 						</tr>
 						<tr>
-							<td> 18. November </td>
-							<td> 17.00 Uhr </td>
-							<td> Benefizkonzert </td>
-							<td> Lutherkirche </td>
-						</tr>
-						<tr>
-							<td> 12. Dezember </td>
+							<td> 11. Dezember </td>
 							<td> 18.00 Uhr </td>
 							<td> vorweihnachtliche Musik </td>
-							<td> LAGO Shopping Center Konstanz</td>
+							<td> LAGO Shopping Center Konstanz </td>
 						</tr>
 
 					</table>
